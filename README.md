@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Amrr Roshdyie</h1>
 <h3 align="center">Dynamic Data Analyst, Growth Seeker Who's intresed in Business & Tech Industries, Passoinate about being part of cool data team!</h3>
-<img align="right" alt="Analyzing" width="400" src="https://aryng.com/assets/img/ani2.gif">
+<img align="right" alt="Analyzing" width="300" src="https://aryng.com/assets/img/ani2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshdyie&label=Profile%20views&color=0e75b6&style=flat" alt="roshdyie" /> </p>
 
 - 🔭 I’m experienced user of **Advanced Excel | SQL | Power BI**
