@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Dax Functions, Tableau, EDA using Python**
 
-- 👯 I'm having a great knowlegde of **Database ERD,EERD,Mapping,Designing,Implementation using MS Server**
+- ⚡ I'm having a great knowlegde of **Database ERD,EERD,Mapping,Designing,Implementation using MS Server**
 
 - 🤝 I’m looking for help with **Creating Dashboard, Reports and Data-Driven Analytics**
 
