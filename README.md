@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/roshdyie/roshdyie/blob/main/zenitsu.gif">
+<img align="center" width="1280" src="https://github.com/roshdyie/roshdyie/blob/main/zenitsu.gif">
 <h1 align="center">Hello 👋, I'm Amrr Roshdyie</h1>
 <h3 align="center">Dynamic Data Analyst, Growth Seeker Who's intresed in Business & Tech Industries, Passoinate about being part of cool data team!</h3>
 <img align="right" alt="Analyzing" width="360" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
