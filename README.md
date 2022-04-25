@@ -26,8 +26,9 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/powerbi/avatar?imageSize=512" alt="Powerbi" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/13/88/5f/13885f590c6070c7f106b0f19a17ab9b.png" alt="Excel" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
 </p>
+![kitten-cat](https://user-images.githubusercontent.com/103902225/165017689-b351f6da-3493-485d-b0c8-2befa9cc5755.gif)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshdyie&show_icons=true&locale=en" alt="roshdyie" /></p>
 
