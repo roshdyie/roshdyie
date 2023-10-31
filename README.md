@@ -1,18 +1,16 @@
 
 <h1 align="center">Hello👋, This is Amrr</h1>
-<h3 align="center">Dynamic Data Analyst, Growth Seeker Who's intresed in Business & Tech Industries, Passoinate about being part of cool data team!</h3>
+<h3 align="center">Dynamic Detail-Oriented Data Analyst, Growth Seeker Who's intresed in Business & Tech Industries, Passoinate about being part of cool data team!</h3>
 <img align="right" alt="Analyzing" width="360" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshdyie&label=Profile%20views&color=0e75b6&style=flat" alt="roshdyie" /> </p>
 
-- 🔭 I’m experienced user of **Advanced Excel | SQL | Power BI**
+- 🔭 Detail-Oriented Data Analyst with a strong engineering background and a proven proficiency in an array of data analysis tools, including Excel (Pivot Tables, Power Query, Power Pivot, Pivot Charts), DAX Funtions, Power BI, and SQL. Armed with a solid foundation in database design and data modeling, I have a keen eye for detail and a dedication to transforming raw data into actionable insights. I'm committed to  extracting the full potential of data, helping organizations harness the power of their data for data-driven decision-making, process optimization, and business success.
 
-- 🌱 I’m currently learning **Dax Functions, Tableau, EDA using Python**
+- 📫 Power BI Portfolio [https://www.novypro.com/profile_projects/roshdyie](https://www.novypro.com/profile_projects/roshdyie)
 
-- ⚡ I'm having a great knowlegde of **Database ERD,EERD,Mapping,Designing,Implementation using MS Server**
+- 📫 Linkedin [https://www.linkedin.com/in/roshdyie/](https://www.linkedin.com/in/roshdyie/)
 
-- 🤝 I’m looking for help with **Creating Dashboard, Reports and Data-Driven Analytics**
+- 📫 Email **amroshdyie@gmail.com**
 
-- 📫 How to reach me **roshdyiee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,8 +27,3 @@
 </p>
 
 <img align="right" width="330" height="330" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshdyie&show_icons=true&locale=en" alt="roshdyie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshdyie&" alt="roshdyie" /></p>
-
