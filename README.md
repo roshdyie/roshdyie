@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello👋, This is Amrr</h1>
 <h3 align="center"> Passionate, detail-oriented, growth-seeking Data Analyst who's interested in Business & Tech and is dynamic, enthusiastic about being part of a cool data team!</h3>
-<img align="right" alt="Analyzing" width="360" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="Analyzing" width="260" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 - 🔭 Detail-Oriented Data Analyst with a strong engineering background and a proven proficiency in an array of data analysis tools, including Excel (Pivot Tables, Power Query, Power Pivot, Pivot Charts), DAX Funtions, Power BI, and SQL. Armed with a solid foundation in database design and data modeling, I have a keen eye for detail and a dedication to transforming raw data into actionable insights. I'm committed to  extracting the full potential of data, helping organizations harness the power of their data for data-driven decision-making, process optimization, and business success.
 
@@ -11,7 +11,7 @@
 
 - 📫 Email **amroshdyie@gmail.com**
 
-
+<img align="right" width="250" height="250" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roshdyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshdyie" height="30" width="40" /></a>
